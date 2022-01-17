@@ -1,0 +1,7 @@
+{
+  "name": "otpapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
