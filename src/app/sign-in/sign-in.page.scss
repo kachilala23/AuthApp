@@ -1,0 +1,12 @@
+ion-content {
+  --background: url("../../assets/bg.png") no-repeat center center/cover;
+  ion-grid {
+    transform: translateY(10vh);
+    ion-label,
+    p {
+      font-size: 1.8rem;
+      font-weight: bold;
+      letter-spacing: 0.8px;
+    }
+  }
+}
